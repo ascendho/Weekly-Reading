@@ -21,3 +21,6 @@ Modern buildings will shrink to-do lists in other ways. At one museum in Britain
 For some, elaborate new storage facilities amount to window dressing. Museums are keeping too much, says Christopher Marinello, an art lawyer. He thinks the objects that are not on display should be donated or sold. The Indianapolis Museum of Art used a ranking system to get rid of a fifth of its collection. Objects were given a score from “A” to “D” (denoting a scale from “rare” to “inferior”) and stowed, sold or scrapped.
 
 This sort of exercise could work for any collection. But it helps if objects are attractive in the first place. Selling a pickled fish is harder than a painting. For now, the priority for many museums is getting treasures to safer, more spacious ground. ■
+
+------
+
