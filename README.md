@@ -8,5 +8,7 @@
 
 ## 归档
 
-- 第一期：<a href="docs/issue_1.md">博物馆的囤积问题</a>
+- 第2期：<a href="docs/issue_2.md">纽约城里令人棘手的脚手架</a>
+
+- 第1期：<a href="docs/issue_1.md">博物馆的囤积问题</a>
 
