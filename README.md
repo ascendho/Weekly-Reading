@@ -21,12 +21,8 @@
 
 
 ## 归档
-
+- 第 3 期：<a href="docs/issue_3.md">企业如何传承隐性知识</a>
 - 第 2 期：<a href="docs/issue_2.md">纽约城里令人棘手的脚手架</a>
-
 - 第 1 期：<a href="docs/issue_1.md">博物馆的囤积问题</a>
 
-  
-
-  
 
